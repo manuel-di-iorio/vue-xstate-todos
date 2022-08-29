@@ -1,0 +1,10 @@
+@import "./base.css";
+
+body {
+  max-width: 640px;
+  margin: auto;
+}
+
+#app {
+  margin: 1rem;
+}
